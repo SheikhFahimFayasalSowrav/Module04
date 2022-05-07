@@ -1,3 +1,3 @@
 print("Hello")
-print(2+5)
+print("My age is", 2+5)
 
